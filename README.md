@@ -51,3 +51,7 @@ linking to additional sources.
 In terms of design, I've maintained a consistent color palette and effectively used shadow boxes and styling
 elements to highlight key information. In summary, my website has a logical and effective structure that presents
 my information attractively and in a user-friendly manner.
+
+
+
+LINK TO MY FIGMA: https://www.figma.com/file/NIJt6pKfa2jKKNvjJSagag/Untitled?type=design&node-id=0-1&mode=design
